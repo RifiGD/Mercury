@@ -1,0 +1,7 @@
+-Get dependancies:
+  //listed from https://www.vectorunit.com/development-tools  
+  //there are some that aren't listed in this website but are present in the lib folder
+  -SDL2 (Graphics, input, everything maybe?)
+  -FMOD (audio)
+  -BULLET PHYSICS LIBRARY (duh)
+  -CRAZY BUMP (material sets?)
