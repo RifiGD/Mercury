@@ -1,6 +1,6 @@
 
-//a "(class)" means a class, example: VuCheckFPSEntity (class)
-// an "(function)" means function, example: Trigger (function)
+// a "(class)" means a class, example: VuCheckFPSEntity (class)
+// a "(function)" means a function, example: Trigger (function)
 
 Vu Classes structure from Ghidra:
 
@@ -11,10 +11,13 @@ Classes:
     VuA
     VuB
     VuC:
-        -VuCheckFPSEntity (class):
-            -Trigger (function) //variables have been renamed.
+    -VuCheckFPSEntity (class):
+        - Trigger (function) // variables have been renamed
     VuD
-    VuE
+    VuE:
+    -VuEngine (class):
+        - ~VuEngine (function)
+
     VuF
     VuG
     VuH
