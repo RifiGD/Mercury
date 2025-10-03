@@ -1,5 +1,8 @@
-/* pseudo-code for now, not meant to be used 
+/* VuCheckFPSEntity class*/
+/*Mousebot - Vector Engine*/
+/* pseudo-code, not meant to be used 
 or compiled at all */
+
 
 
 /* VuCheckFPSEntity::Trigger(VuParams const&) */
