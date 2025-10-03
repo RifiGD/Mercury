@@ -1,5 +1,6 @@
 
-// a "-" represents a file, else it's a directory.
+//a "(class)" means a class, example: VuCheckFPSEntity (class)
+// an "(function)" means function, example: Trigger (function)
 
 Vu Classes structure from Ghidra:
 
@@ -9,7 +10,9 @@ Classes:
     Vu3d
     VuA
     VuB
-    VuC
+    VuC:
+        -VuCheckFPSEntity (class):
+            -Trigger (function) //variables have been renamed.
     VuD
     VuE
     VuF
