@@ -13,6 +13,8 @@ Classes:
     VuC:
     -VuCheckFPSEntity (class):
         - Trigger (function) // variables have been renamed
+    -VuCheckVersionEntity (class):
+        - Check (function) // variable names lol
     VuD
     VuE:
     -VuEngine (class):
