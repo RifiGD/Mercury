@@ -1,3 +1,7 @@
+# NOTE
+This is a passion project of mine. There is no guarantee I'll work on this consistently or even finish it at all.
+I'm only doing this for my love towards the game.
+
 # Mercury
 "Mercury" (derived from com.vectorunit.mercury.amazon) is a WIP decompilation of the revision of The Vector Engine used in Mousebot (Amazon Appstore version from January 2024).
 ## Support the original creators!
